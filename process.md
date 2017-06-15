@@ -21,8 +21,8 @@
     * Update the website with date
     * Open ticket sales (reserve tickets for volunteers, speakers, sponsors)
     * Write thank you posts for each sponsor
-* More volunteers
- * Call for volounteers post
+* Volunteers
+  * Call for volunteers post
 * Fundraising
   * Call for sponsors post
 * Speakers
