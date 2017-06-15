@@ -17,10 +17,10 @@
 
 * Marketing
  * Website updates
-  * Get a decent web design and logo
-  * Update the website with date
- * Open ticket sales (reserve tickets for volunteers, speakers, sponsors)
- * Write thank you posts for each sponsor
+    * Get a decent web design and logo
+    * Update the website with date
+    * Open ticket sales (reserve tickets for volunteers, speakers, sponsors)
+    * Write thank you posts for each sponsor
 * More volunteers
  * Call for volounteers post
 * Fixing sponsors
