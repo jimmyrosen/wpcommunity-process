@@ -16,10 +16,22 @@
 ## Part 2: Preparations
 
 * Marketing
-* More volounteers
+* More volunteers
 * Fixing sponsors
-* Choosing speakers
+* Choosing speakers/Settle schedule
+* Inform chosen speakers and rejected speakers
+* Send out forms for A/V release and code-of-conduct to speakers
 * Recieve swag from the foundation
+
+### Website updates
+* Get a decent web design and logo
+* Update the website with date
+* Calls:
+  * Call for volunteers
+  * Call for speakers
+  * Call for sponsors
+* Open ticket sales (reserve tickets for volunteers, speakers, sponsors)
+* Write thank you posts for each sponsor
 
 ——
 
