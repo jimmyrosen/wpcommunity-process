@@ -24,7 +24,7 @@
 * More volunteers
  * Call for volounteers post
 * Fundraising
- * Call for sponsors post
+  * Call for sponsors post
 * Speakers
   * Call for speakers post
   * Select speakers
