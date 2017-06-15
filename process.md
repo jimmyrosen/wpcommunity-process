@@ -23,6 +23,12 @@
     * Write thank you posts for each sponsor
 * Volunteers
   * What tasks need arranging?
+    * Plan the sponsors & organizer dinner
+    * Plan the contribution day
+    * Plan the afterparty
+    * Plan the WordCamp (talks) day
+      * Registration process
+        * Consider volume of attendee troughput
   * Who can and wants to do what?
   * Call for volunteers post
 * Fundraising
@@ -35,12 +41,14 @@
   * Inform chosen speakers and rejected speakers
 * Recieve swag from the foundation
 
+
+
 ——
 
 ## Part 3: The event
 
 * Do the sponsors & organizer dinner
-* Do the wordcamp
+* Do the WordCamp (talks) day
 * Do the contribution day
 * Do the afterparty
 
