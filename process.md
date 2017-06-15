@@ -22,6 +22,8 @@
     * Open ticket sales (reserve tickets for volunteers, speakers, sponsors)
     * Write thank you posts for each sponsor
 * Volunteers
+  * What tasks need arranging?
+  * Who can and wants to do what?
   * Call for volunteers post
 * Fundraising
   * Call for sponsors post
