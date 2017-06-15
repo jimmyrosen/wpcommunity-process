@@ -27,6 +27,7 @@
     * Plan the contribution day
     * Plan the afterparty
     * Plan the WordCamp (talks) day
+      * Recieve swag from the foundation
       * Registration process
         * Consider volume of attendee troughput
   * Who can and wants to do what?
@@ -39,7 +40,6 @@
   * Settle schedule
   * Send out forms for A/V release and code-of-conduct to speakers
   * Inform chosen speakers and rejected speakers
-* Recieve swag from the foundation
 
 
 
