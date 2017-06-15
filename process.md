@@ -13,7 +13,7 @@
 
 ——
 
-## Part 2: Preparations
+## Part 2: Planning
 
 * Marketing
   * Set up the website
@@ -23,12 +23,14 @@
     * Write thank you posts for each sponsor
 * More volunteers
  * Call for volounteers post
-* Fixing sponsors
+* Fundraising
  * Call for sponsors post
-* Choosing speakers/Settle schedule
-   * Call for speakers post
-* Inform chosen speakers and rejected speakers
-* Send out forms for A/V release and code-of-conduct to speakers
+* Speakers
+  * Call for speakers post
+  * Select speakers
+  * Settle schedule
+  * Send out forms for A/V release and code-of-conduct to speakers
+  * Inform chosen speakers and rejected speakers
 * Recieve swag from the foundation
 
 ——
