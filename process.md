@@ -16,7 +16,7 @@
 ## Part 2: Preparations
 
 * Marketing
-  * Website updates
+  * Set up the website
     * Get a decent web design and logo
     * Update the website with date
     * Open ticket sales (reserve tickets for volunteers, speakers, sponsors)
