@@ -1,5 +1,7 @@
 # WordCamp
 
+Xml tool used: https://draw.io
+
 ## Part 1: Application
 
 * Ruleset
